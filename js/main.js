@@ -1,11 +1,4 @@
-$(function(){
-    $('#myModal').modal({
-       show:true,
-       backdrop:'static'
-    });
-     //now on button click
-      $('#myModal').modal('show');
-    });
+
 
 $(document).ready(function() {
     $(".page-content").css("overflow-y", "hide"); //scrolling effect;
