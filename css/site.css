@@ -552,7 +552,37 @@ input:focus~.highlight {
   z-index: 450;
 }
 
+.modal.show {
+  visibility: visible;
+  opacity: 1;
+  moz-transition: opacity 0.9s ease-in-out;
+  -o-transition: opacity 0.9s ease-in-out;
+  -webkit-transition: opacity 0.9s ease-in-out;
+  transition: opacity 0.9s ease-in-out;
+}
 
+.modal-container {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  color: #333333;
+  background-color: #fff8f5 !important;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.modal-section {
+  background: #fff8f5 !important;
+  border: 1px solid #17365D;
+  margin: 30px;
+}
+
+.modal-footer a {
+  color: #17365D;
+  font-family: "SFProDisplay-Medium";
+  font-size: 23px;
+}
 
 .form-btn {
   color: #17365D;
@@ -641,5 +671,3 @@ input:focus~.highlight {
   border-radius: 50%;
   margin-right: 10px;
 }
-
-
