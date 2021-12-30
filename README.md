@@ -1,8 +1,8 @@
-#Projeye Main dosyasındaki HTML uzantılı dosyadan ulaşabilirsiniz.
+# Projeye Main dosyasındaki HTML uzantılı dosyadan ulaşabilirsiniz.
 ---
 Netlify:
 ---
-#Ekran Görüntüleri
+# Ekran Görüntüleri
 ---
 <img alt="photoshopsheme" src="./presentation/Ss1.png" 
         style="float: left; width:650px; height:400px;" />
