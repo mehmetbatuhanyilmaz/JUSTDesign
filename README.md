@@ -1,7 +1,5 @@
 # Projeye Main dosyasındaki HTML uzantılı dosyadan ulaşabilirsiniz.
 ---
-Netlify:
----
 # Ekran Görüntüleri
 ---
 <img alt="photoshopsheme" src="./presentation/Ss1.png" 
