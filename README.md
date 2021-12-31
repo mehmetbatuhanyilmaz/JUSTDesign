@@ -9,5 +9,5 @@
         style="float: left; width:650px; height:400px;" />
 
 <br/>
-<img alt="gif" src="./presentation/video-to-gif-converter.gif" 
+<img alt="gif" src="./presentation/video-to-gif-converter .gif" 
         style="float: left; width:650px; height:400px;" /> 
